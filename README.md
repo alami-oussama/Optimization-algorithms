@@ -13,7 +13,11 @@
 
 ## Multidimensional functions
 
-- [x] Gradient descent method
-- [x] Conjugate Gradient method
-- [x] Newton method
-- [x] Quasi-Newton method
+- [x] Gradient descent method (with optimal steps)
+- [x] Gradient descent method (with backtracking line search)
+
+## Backtracking line search
+
+- [x] Armijo
+- [x] Goldstein
+- [x] Wolfe
