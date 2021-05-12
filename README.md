@@ -18,6 +18,6 @@
 
 ## Backtracking line search
 
-- [x] Armijo
-- [x] Goldstein
-- [x] Wolfe
+- [x] Armijo method
+- [x] Goldstein method
+- [x] Wolfe method
